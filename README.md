@@ -1,5 +1,5 @@
 # AI-Powered Bedtime Stories
-
+This project is a submission for the Nosana Agent Challenge
 ## Core Problem
 
 Many existing bedtime story apps offer limited customization and lack engaging interactivity, leading to a less immersive and personalized experience for children.  Kids often crave unique stories tailored to their interests, and interactive elements can significantly enhance their engagement and enjoyment.
